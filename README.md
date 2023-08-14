@@ -9,3 +9,4 @@ I am a biological oceanographer and currently a PhD candidate at the University 
 - 🏄 The methodological tools I often use are numerical ecology, individual-based modelling, satellite imagery, and ocean circulation modelling. I write code in R, Matlab, Java, and Python.
 - 🚣 If you are keen on collaborating, I am always looking for new collaborators! 
 
+![Zooplankton image](amphipod_copepod.jpg)
