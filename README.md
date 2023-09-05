@@ -9,4 +9,6 @@ I am a biological oceanographer and currently a PhD candidate at the University 
 - 🏄 The methodological tools I often use are numerical ecology, individual-based modelling, satellite imagery, and ocean circulation modelling. I write code in R, Matlab, Java, and Python.
 - 🚣 If you are keen on collaborating, I am always looking for new collaborators! 
 
+✨ We are hosting a workshop on zooplankton traits ✨ on March 2024 at Hobart, Australia. Follow [this link](https://meetings.pices.int/meetings/international/2024/zps7/program#w5) for details. 
+
 ![Zooplankton image](amphipod_copepod.jpg)
