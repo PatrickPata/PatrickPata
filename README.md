@@ -7,8 +7,24 @@ I am a biological oceanographer and currently a PhD candidate at the University 
 - 🐠 Previously, I've worked on the larval connectivity of fish populations and [coral reefs](https://github.com/biome-upmsi/Philippine-connectivity) to help inform conservation and management.
 - 🦑 In my free time, I enjoy nature, art, and [making art](https://www.instagram.com/patrickpasta/). Check out this small public repo of [zooplankton line art](https://github.com/PatrickPata/Marine-organism-line-art) which I use in making figures and presentations.
 - 🏄 The methodological tools I often use are numerical ecology, individual-based modelling, satellite imagery, and ocean circulation modelling. I write code in R, Matlab, Java, and Python.
-- 🚣 If you are keen on collaborating, I am always looking for new collaborators! 
+- 🚣 If you are keen on collaborating, I am always looking for new collaborators! Please get in touch through email at p.pata@oceans.ubc.ca.
 
 ✨ We are hosting a workshop on zooplankton traits ✨ on March 2024 at Hobart, Australia. Follow [this link](https://meetings.pices.int/meetings/international/2024/zps7/program#w5) for details. 
+
+
+---
+You can view some of my previous research in the following posters:
+
+
+<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2022_IBS_NEP_zooplankton_bioregionalization.jpg" width = 490, height = 350> <img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2023_ASLO_Zooplankton_trait_database.jpg" width = 250, height = 350> 
+<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2017_PAMS_Coral_reef_network_model.png" width = 250, height = 350>
+
+---
+
+These are the links to my research profiles:
+- [Google Scholar](https://scholar.google.com/citations?user=hRqaOHEAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Patrick-Pata)
+
+---
 
 ![Zooplankton image](amphipod_copepod.jpg)
