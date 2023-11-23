@@ -15,9 +15,8 @@ I am a biological oceanographer and currently a PhD candidate at the University 
 ---
 You can view some of my previous research in the following posters:
 
-
-<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2022_IBS_NEP_zooplankton_bioregionalization.jpg" width = 490, height = 350> <img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2023_ASLO_Zooplankton_trait_database.jpg" width = 250, height = 350> 
-<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2017_PAMS_Coral_reef_network_model.png" width = 250, height = 350>
+<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2017_PAMS_Coral_reef_network_model.png" width = 250, height = 350> <img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2023_ASLO_Zooplankton_trait_database.jpg" width = 250, height = 350> 
+<img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2022_IBS_NEP_zooplankton_bioregionalization.jpg" width = 490, height = 350>
 
 ---
 
