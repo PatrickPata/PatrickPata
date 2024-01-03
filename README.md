@@ -21,17 +21,19 @@ You can view some of my previous research in the following posters:
 ---
 ### Peer-review publications
 
+- **Pata, P.R.** and Hunt, B.P.V. (2023). Harmonizing marine zooplankton trait data toward a mechanistic understanding of ecosystem functioning. Limnology and Oceanography. [10.1002/lno.12478](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12478)
+  
 - **Pata, P.R.**, Galbraith, M., Young, K., Margolin, A., Perry, R.I., and Hunt, B.P.V. (2022). Persistent zooplankton bioregions reflect long-term consistency of community composition and oceanographic drivers in the NE Pacific. Progress in Oceanography, 206, p.102849. [doi.org/10.1016/j.pocean.2022.102849](https://www.sciencedirect.com/science/article/pii/S0079661122001082)
 
 - Currie, J., Blain, S.A., Emry, S., Hebert, K., Xie, G., Moore, N., Wang, X., Brown, A., Burant, J.B., Grevstad, L., Marconi, V., McRae, L., Mezzini, S., **Pata, P.R.**, and Freeman, R. (2022). Assessing the representation of species included within the Canadian Living Planet Index. FACETS. [doi.org/10.1139/facets-2022-0063](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0063)
 
-- **Pata, P.R.**, Yñiguez A.T. (2021). Spatial planning insights for Philippine coral reef conservation using larval connectivity networks. Frontiers in Marine Science, 1406. [doi.org/10.3389/fmars.2021.719691](https://www.frontiersin.org/articles/10.3389/fmars.2021.719691/full)
+- **Pata, P.R.** and Yñiguez A.T. (2021). Spatial planning insights for Philippine coral reef conservation using larval connectivity networks. Frontiers in Marine Science, 1406. [doi.org/10.3389/fmars.2021.719691](https://www.frontiersin.org/articles/10.3389/fmars.2021.719691/full)
 
 - **Pata, P.R.**, Yñiguez A.T., Deauna, J.D., De Guzman, A.B., Jimenez, C.R., Borja-del Rosario, R., and Villanoy, C. (2021). Insights into the environmental conditions contributing to variability in the larval recruitment of the tropical sardine Sardinella lemuru. Ecological Modelling, 451, 109570. [doi.org/10.1016/j.ecolmodel.2021.109570](https://www.sciencedirect.com/science/article/pii/S0304380021001290)
 
 - Cabasan, J.P., Arceo, H.O., **Pata, P.R.**, Labrador, K.L., Casauay, R.B., Miller, N., Rodriguez, M.V.B. (2021). Combining information on otolith morphometrics and larval connectivity models to infer stock structure of Plectropomus leopardus in the Philippines. Marine Ecology Progress Series, 679, 115-131. [doi.org/10.3354/meps13874](https://www.int-res.com/abstracts/meps/v679/p115-131)
 
-- **Pata, P.R.**, Yñiguez A.T. (2019). Larval connectivity patterns of the North Indo-West Pacific coral reefs. PLoS ONE 14(7): e0219913. [doi.org/10.1371/journal.pone.0219913](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219913)
+- **Pata, P.R.** and Yñiguez A.T. (2019). Larval connectivity patterns of the North Indo-West Pacific coral reefs. PLoS ONE 14(7): e0219913. [doi.org/10.1371/journal.pone.0219913](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219913)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=hRqaOHEAAAAJ&hl=en)
