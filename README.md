@@ -11,6 +11,7 @@ I am a biological oceanographer and currently a PhD candidate at the University 
 
 ✨ We are hosting a workshop on zooplankton traits ✨ on March 2024 at Hobart, Australia. Follow [this link](https://meetings.pices.int/meetings/international/2024/zps7/program#w5) for details. 
 
+👨‍🎓 [View my CV here.](https://github.com/PatrickPata/PatrickPata/blob/main/Pata%20-%20CV%20Feb%202023.pdf)
 
 ---
 You can view some of my previous research in the following posters:
