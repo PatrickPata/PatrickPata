@@ -20,7 +20,7 @@ You can view some of my previous research in the following posters:
 <img src="https://github.com/PatrickPata/PatrickPata/blob/main/research_posters/2022_IBS_NEP_zooplankton_bioregionalization.jpg" width = 490, height = 350>
 
 ---
-### Peer-review publications
+### Peer-reviewed publications
 
 - **Pata, P.R.** and Hunt, B.P.V. (2023). Harmonizing marine zooplankton trait data toward a mechanistic understanding of ecosystem functioning. Limnology and Oceanography. [10.1002/lno.12478](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12478)
   
