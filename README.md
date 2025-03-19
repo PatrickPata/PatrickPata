@@ -10,7 +10,7 @@ I am a biological oceanographer and currently a Postdoctoral Research Fellow at 
 - 🏄 The methodological tools I often use are numerical ecology, individual-based modelling, satellite imagery, and ocean circulation modelling. I write code in R, Matlab, Java, and Python.
 - 🚣 If you are keen on collaborating, I am always looking for new collaborators! Please get in touch through email at patrick.pata.1@ulaval.ca.
 
-👨‍🎓 [View my CV here.](https://github.com/PatrickPata/PatrickPata/blob/main/CV_Patrick_Pata_3pages_Feb_2025.pdf)
+👨‍🎓 [View my CV here.](https://github.com/PatrickPata/PatrickPata/blob/main/CV_Patrick_Pata_3pages_Feb2025.pdf)
 
 ---
 You can view some of my previous research in the following posters:
