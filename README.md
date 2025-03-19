@@ -1,15 +1,16 @@
 ### Hello! 👋👋👋
 
-I am a biological oceanographer and currently a Postdoctoral Research Fellow at The University of British Columbia in the [Pelagic Ecosystems Laboratory](https://pelagicecosystems.oceans.ubc.ca/). This GitHub page stores my scripts and data. My research is generally on the physical and ecological mechanisms that structure the distribution of life. Particularly, I study marine zooplankton which include a diversity of animals from microscopic crustaceans, to jellyfish, to the larvae of larger organisms like corals and fishes. Understanding why different kinds of zooplankton are found in different parts of the ocean during particular periods of time is important for the phytoplankton that they eat, the fishes and whales that eat them, the habitats they form, and the carbon that they transport from the surface of the ocean to the deep. AND zooplankton look super cool and cute and alien and gorgeous! 
+I am a biological oceanographer and currently a Postdoctoral Research Fellow at Universite Laval in the Numerical Ecology and Oceanography Lab (NEOLab) for the [TRAITZOO project](https://www.normalesup.org/~ayata/ANR_traitzoo.html). Previously I was a postdoc and PhD student at The University of British Columbia in the [Pelagic Ecosystems Laboratory](https://pelagicecosystems.oceans.ubc.ca/). This GitHub page stores my scripts and data. My research is generally on the physical and ecological mechanisms that structure the distribution of life. Particularly, I study marine zooplankton which include a diversity of animals from microscopic crustaceans, to jellyfish, to the larvae of larger organisms like corals and fishes. Understanding why different kinds of zooplankton are found in different parts of the ocean during particular periods of time is important for the phytoplankton that they eat, the fishes and whales that eat them, the habitats they form, and the carbon that they transport from the surface of the ocean to the deep. AND zooplankton look super cool and cute and alien and gorgeous! 
 
-- 🌊 I am currently working on a project on the Bioregionalization of the Northeast Pacific Ocean and the Arctic Ocean based on [zooplankton taxonomy](https://github.com/Pelagic-Ecosystems/BC_Zooplankton_Bioregionalization) and [functional ecology](https://github.com/Pelagic-Ecosystems/BC_Functional_Biogeography).
+- :snowflake: I am currently working on estimating the lipid content of Arctic copepods from in situ images using machine learning and using the observed lipidscape in parameterizing and evaluating individual-based models of copepod dynamics. The scripts of the prosome and lipid segmentation models I am currently developing are found [here](https://github.com/PatrickPata/copepods-lipid-content/tree/patrick_dev).
+- 🌊 I have been working on a project on the Bioregionalization of the Northeast Pacific Ocean and the Arctic Ocean based on [zooplankton taxonomy](https://github.com/Pelagic-Ecosystems/BC_Zooplankton_Bioregionalization) and [functional ecology](https://github.com/Pelagic-Ecosystems/BC_Functional_Biogeography).
 - 🦀 I am continuing to develop a [Global Zooplankton Trait Database](https://github.com/Pelagic-Ecosystems/Zooplankton_trait_database). If you would like to help me expand and polish this database or need support in using it, please reach out!
 - 🐠 Previously, I've worked on the larval connectivity of fish populations and [coral reefs](https://github.com/biome-upmsi/Philippine-connectivity) to help inform conservation and management.
 - 🦑 In my free time, I enjoy nature, art, and [making art](https://www.instagram.com/patrickpasta/). Check out this small public repo of [zooplankton line art](https://github.com/PatrickPata/Marine-organism-line-art) which I use in making figures and presentations.
 - 🏄 The methodological tools I often use are numerical ecology, individual-based modelling, satellite imagery, and ocean circulation modelling. I write code in R, Matlab, Java, and Python.
-- 🚣 If you are keen on collaborating, I am always looking for new collaborators! Please get in touch through email at p.pata@oceans.ubc.ca.
+- 🚣 If you are keen on collaborating, I am always looking for new collaborators! Please get in touch through email at patrick.pata.1@ulaval.ca.
 
-👨‍🎓 [View my CV here.](https://github.com/PatrickPata/PatrickPata/blob/main/CV_Patrick_Pata_June_2024.pdf)
+👨‍🎓 [View my CV here.](https://github.com/PatrickPata/PatrickPata/blob/main/CV_Patrick_Pata_3pages_Feb_2025.pdf)
 
 ---
 You can view some of my previous research in the following posters:
@@ -19,6 +20,8 @@ You can view some of my previous research in the following posters:
 
 ---
 ### Peer-reviewed publications
+- Titocci, J., **Pata, P.R.**,  Durazzano, T., [and 21 others] (2025). Pathways for converting zooplankton traits to ecological insight are paved with Findable, Accessible, Interoperable and Reusable (FAIR) data practices. ICES Journal of Marine Science, 82, no. 2 (2025): fsaf017. [doi.org/10.1093/icesjms/fsaf017](https://doi.org/10.1093/icesjms/fsaf017)
+
 - **Pata, P.R.**, Galbraith, M., Young, K., Margolin, A., Perry, R.I., and Hunt, B.P.V. (2024). Data-driven determination of zooplankton bioregions and robustness analysis. MethodsX, 12, 102676. [doi.org/10.1016/j.mex.2024.102676](https://doi.org/10.1016/j.mex.2024.102676)
 
 - **Pata, P.R.** and Hunt, B.P.V. (2023). Harmonizing marine zooplankton trait data toward a mechanistic understanding of ecosystem functioning. Limnology and Oceanography. [10.1002/lno.12478](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12478)
